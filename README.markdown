@@ -8,7 +8,22 @@ You're Feeling Lucky
 
 ## Installation
 
-    $ npm install viola
+    $ npm install casperjs phantomjs viola
+
+## Example
+
+### package.json
+
+Assuming you have all your test files in ./suite and want a JUnit report file in ./report:
+
+    {
+      "previola": "npm install",
+      "viola": "casperjs test ./suite --xunit=report/viola.xml"
+    }
+
+### CLI
+
+    $ npm run viola
 
 ## Folkore
 
