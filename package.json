@@ -1,0 +1,17 @@
+{
+  "name": "viola",
+  "version": "0.0.1",
+  "author": "Eric Bednarz <github@bednarz.nl>",
+  "license": "MIT",
+  "description": "CasperJS wrapper for making functional and responsive web design regression testing easier.",
+  "keywords": [
+    "browser",
+    "capserjs",
+    "phantomjs",
+    "responsive"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ebednarz/viola.git"
+  }
+}

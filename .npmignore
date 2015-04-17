@@ -1,0 +1,5 @@
+examples/
+test/
+.idea/
+.editorconfig
+.travis.yml
