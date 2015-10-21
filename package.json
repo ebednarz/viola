@@ -1,6 +1,6 @@
 {
   "name": "viola",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": "Eric Bednarz <github@bednarz.nl>",
   "license": "MIT",
   "description": "CasperJS wrapper for making functional and responsive web design regression testing easier.",
